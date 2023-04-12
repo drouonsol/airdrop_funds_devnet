@@ -1,4 +1,7 @@
 # Bulk Airdrop
+Code Imrpovment From 
+https://github.com/jshiohaha/bulk-airdrop
+
 
 **Disclaimer**: This script was written quickly & not tested thoroughly. There are probably bugs. If you find some & feel so inclined, PRs for fixes are welcomed 🙂
 
